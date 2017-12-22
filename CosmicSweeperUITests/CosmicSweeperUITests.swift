@@ -2,8 +2,8 @@
 //  CosmicSweeperUITests.swift
 //  CosmicSweeperUITests
 //
-//  Created by Allyx Fusion on 2016-07-04.
-//  Copyright © 2016 Allyx Fusion. All rights reserved.
+//  Created by A.Lichkov on 2016-07-04.
+//  Copyright © 2016 A.Lichkov. All rights reserved.
 //
 
 import XCTest

@@ -2,8 +2,8 @@
 //  CosmicSweeperTests.swift
 //  CosmicSweeperTests
 //
-//  Created by Allyx Fusion on 2016-07-04.
-//  Copyright © 2016 Allyx Fusion. All rights reserved.
+//  Created by A.Lichkov on 2016-07-04.
+//  Copyright © 2016 A.Lichkov. All rights reserved.
 //
 
 import XCTest
@@ -28,7 +28,7 @@ class CosmicSweeperTests: XCTestCase {
     
     func testPerformanceExample() {
         // This is an example of a performance test case.
-        self.measureBlock {
+        self.measure {
             // Put the code you want to measure the time of here.
         }
     }
